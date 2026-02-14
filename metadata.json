@@ -1,0 +1,7 @@
+{
+  "name": "Luaak",
+  "description": "System that connects everything - Realtime omni-channel order management and warehouse fulfillment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
